@@ -6,7 +6,7 @@
 
 关于回溯的题目，还下面这些比较有代表性的题目。
 
-![image-20200705094504756](/Users/zhupeihao/Library/Application Support/typora-user-images/image-20200705094504756.png)
+<img src="/Users/zhupeihao/Library/Application Support/typora-user-images/image-20200705094504756.png" alt="image-20200705094504756" style="zoom:100%;" />
 
 | 编号 | 题目              | 解题方法                                                     |
 | ---- | ----------------- | ------------------------------------------------------------ |
